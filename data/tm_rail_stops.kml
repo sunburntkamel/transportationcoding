@@ -1,0 +1,3311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Martin Luther King &amp; Morrison</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66193382682006,45.516937208013239</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Kings Hill/SW Salmon St</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.69115005518834,45.520408998132794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Interstate/Rose Quarter</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66783721592905,45.530186544577148</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>N Lombard TC</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68208873685519,45.577109182940816</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Martin Luther King &amp; Hoyt</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66183889935562,45.527411613712786</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Martin Luther King &amp; Burnside</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.661880947603,45.523395745725708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Martin Luther King &amp; Stark</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66189514837772,45.519060254306602</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Martin Luther King &amp; Salmon</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66194532806992,45.514656699026645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>N Killingsworth St</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68222449881095,45.562658122505049</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Grand &amp; Taylor</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66061025391033,45.514879307199699</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Providence Park</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68984844780452,45.521352369514887</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Providence Park</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68979516406041,45.521798014858604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Clinton/SE 12th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.65326422775566,45.502787509381669</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE 17th Ave &amp; Rhine St</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.64817398171814,45.497843500326908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Beaverton Creek</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.83308205683036,45.500434248481263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 1st &amp; Harrison</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67780137929815,45.509742268276817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Harrison St</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67655820048456,45.508894463050595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Martin Luther King &amp; Hawthorne</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6619535528538,45.512477654242119</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Delta Park/Vanport</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68563003261814,45.596132989988149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Tualatin</value>
+        </Data>
+        <Data name="line">
+          <value>WES</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>CR</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.76445161120589,45.383664625630423</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Wilsonville</value>
+        </Data>
+        <Data name="line">
+          <value>WES</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>CR</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.77520108147701,45.311161846081248</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Moody &amp; Gaines</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67194204551329,45.496186156282519</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Lowell &amp; Moody</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67137602193696,45.4938943368266</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Hall/Nimbus</value>
+        </Data>
+        <Data name="line">
+          <value>WES</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>CR</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.78706494941068,45.45761589971773</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Tigard TC</value>
+        </Data>
+        <Data name="line">
+          <value>WES</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>CR</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.76977862446006,45.430220348479281</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Moody &amp; Gibbs</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67182502508388,45.49939923276974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Northrup &amp; 12th</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68331766076828,45.531536929440499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Northrup &amp; 22nd</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.69644490223195,45.531308734209063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Market &amp; Park</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68391331085039,45.513703803768159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>PSU South/SW 5th and Jackson</value>
+        </Data>
+        <Data name="line">
+          <value>GO</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68298764531579,45.50897328570445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>PSU Urban Center/SW 6th and Montgomery</value>
+        </Data>
+        <Data name="line">
+          <value>GY</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68273222535618,45.511346868019821</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Holgate Blvd</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56626021219964,45.4910993615132</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Lents/SE Foster Rd</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56679964146271,45.480421612003518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Kenton/N Denver Ave</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68590657461861,45.583851015153108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Flavel St</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56663444063581,45.467847565150919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>OHSU Commons</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67073862427598,45.49894227901374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Bond &amp; Lane</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67093271731723,45.495597657863684</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Powell Blvd</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56617974894553,45.495762699566662</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Division St</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56661994067736,45.503394262622599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Market &amp; 5th</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68096293885337,45.512921909604081</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>PSU Urban Center</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68207939491889,45.512220275915773</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 10th &amp; Clay</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6849786335361,45.514546689952809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Mill &amp; Park</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68455436760419,45.513053962635766</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 10th &amp; Alder</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68173299077888,45.520573129199661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 10th &amp; Stark</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68108869152228,45.521784347663278</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 11th &amp; Clay</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68608112240993,45.515104634589413</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 11th &amp; Jefferson</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68531809208444,45.516471786921073</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Central Library</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68246959994873,45.519225712562623</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 11th &amp; Taylor</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68393912029198,45.519146154651374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 10th &amp; Johnson</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68124796820699,45.528571913892257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 10th &amp; Glisan</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68118193588502,45.526446822419601</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Northrup &amp; 14th</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68535650502002,45.531506839272446</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 10th &amp; Marshall</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68132534482955,45.531188064039966</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Main St</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56443232520147,45.514268522041142</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Beaverton TC</value>
+        </Data>
+        <Data name="line">
+          <value>WES</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>CR</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.80087675048388,45.490920295630282</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 10th &amp; Couch</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6810839922279,45.523592518305222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 10th &amp; Everett</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68111114181016,45.525010481999587</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Northrup &amp; 21st</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6944554704646,45.531346740113058</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Northrup &amp; 18th</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68941656163769,45.531437337972712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 11th &amp; Couch</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6822233080497,45.523784893401853</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Galleria/SW 10th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68161560934489,45.519860793574303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Pioneer Square North</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67912679872008,45.519196750530874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Parkrose/Sumner TC</value>
+        </Data>
+        <Data name="line">
+          <value>R</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56559277645503,45.559023167288913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Sunset TC</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.78099890993715,45.51024863880528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Lovejoy &amp; 18th</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68958755493287,45.529930569078729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Lovejoy &amp; 13th</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68461302476031,45.529997805956469</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 11th &amp; Alder</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68281848849266,45.521093016949308</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 11th &amp; Glisan</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68229674681008,45.526609482460231</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 11th &amp; Everett</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68224584806391,45.525183739117168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Mt Hood Ave</value>
+        </Data>
+        <Data name="line">
+          <value>R</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56714468105768,45.577132012660122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Lovejoy &amp; 22nd</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.69688015146481,45.52974474648903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Lovejoy &amp; 21st</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.69467424106519,45.529836281701584</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 23rd &amp; Marshall</value>
+        </Data>
+        <Data name="line">
+          <value>NS</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.69868837803941,45.530615542418445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Art Museum</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68399256431427,45.516304934055135</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Morrison/SW 3rd Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67505692617553,45.518108237542165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Mall/SW 5th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67705915588016,45.518643617012373</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 11th &amp; Johnson</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68237494467142,45.528745317638531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>E 102nd Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.55827431966992,45.522640710238626</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Portland International Airport</value>
+        </Data>
+        <Data name="line">
+          <value>R</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.59339837945018,45.587878161724035</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Mall/SW 4th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67741283264837,45.518011580001058</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>E 122nd Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.53774630015792,45.522494315025895</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>E 162nd Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.4964324651575,45.522173451343733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Ruby Junction/E 197th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.46034623773271,45.516129496308196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Rockwood/E 188th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.47075871184619,45.520538292992939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Convention Center</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66220290047247,45.530090469296063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE 7th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.65805905124941,45.530093971963574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Gresham Central TC</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.42697673971681,45.502587529273846</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Gresham City Hall</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.4360631122325,45.505832489245947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Pioneer Square South</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67942755090313,45.518550706860751</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE 60th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.60301982540537,45.528627585134018</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Rose Quarter TC</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66557228200787,45.530162720220765</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Oak/ SW 1st Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67233291304616,45.520083381246927</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Hollywood/NE 42nd Ave TC</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.62101044661715,45.532857214485432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Lloyd Center/NE 11th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.65402969467526,45.530084907284433</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>E 148th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.51065143970116,45.522296309981556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE 82nd Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.57808822155609,45.533338922547088</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>E 181st Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.47711083561875,45.522012428447631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>E 172nd Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.48610431320097,45.522089807837524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Gateway/NE 99th Ave TC</value>
+        </Data>
+        <Data name="line">
+          <value>BGR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56365260159497,45.530660979711705</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Goose Hollow/SW Jefferson St</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.69383020530944,45.518114264098749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Washington Park</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.71690747599358,45.51064426685879</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Tuality Hospital/SE 8th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.97836174295183,45.5213007343974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Yamhill District</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67435826122944,45.517150116034884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Library/SW 9th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68193620728081,45.519219273853373</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Hillsboro Central/SE 3rd TC</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.98528938937162,45.521379247460501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Hawthorn Farm</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.93073925980407,45.529974447859288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Merlo Rd/SW 158th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.84216239020598,45.505240564251949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Skidmore Fountain</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67132839331198,45.523121745894535</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Washington/SE 12th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.96954423392329,45.521177223115657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Hatfield Government Center</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.99102070521947,45.522188957120058</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Fairplex/Hillsboro Airport</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.94614274899439,45.526984906412174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Elmonica/SW 170th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.85146341202486,45.509962691078009</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Old Town/Chinatown</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67140716885274,45.524933229921395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Willow Creek/SW 185th Ave TC</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.87021024485213,45.517251954169652</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Beaverton Central</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.80710125827888,45.49047215094366</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Orenco/NW 231st Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.91583189773823,45.53028623507025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Quatama/NW 205th Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.88879940823439,45.523193429045385</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Millikan Way</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.8215316641628,45.495263713282014</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Cleveland Ave</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.41849492497613,45.501769340597455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 11th &amp; Marshall</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68247622183348,45.530905906410503</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Grand &amp; Multnomah</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66054887573775,45.531694598778692</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW Lovejoy - 9th</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68049138911802,45.530063268555573</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Weidler &amp; Grand</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66032337399305,45.534421774226686</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE 7th &amp; Halsey</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.65870793130715,45.533394602389535</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Weidler &amp; 2nd</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66346615397077,45.534438196607795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>PSU South/SW 6th and College</value>
+        </Data>
+        <Data name="line">
+          <value>GY</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68363711976974,45.509627242316085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE 7th &amp; Holladay</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.65875730819577,45.530548146670803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>South Waterfront</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6727597357233,45.503072181136375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Broadway &amp; 2nd</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66342696173092,45.535008005347855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Grand &amp; Morrison</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66063428693704,45.516941709674278</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Milwaukie/Main St</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.63993800575511,45.441254246597879</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Grand &amp; Irving</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66054449506245,45.527544261754329</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Cascades</value>
+        </Data>
+        <Data name="line">
+          <value>R</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.55801119347772,45.57223880315393</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Weidler &amp; Ross</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6692472808999,45.534437266284669</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Martin Luther King &amp; Stephens</value>
+        </Data>
+        <Data name="line">
+          <value>AL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66195816461799,45.509552262589644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Grand &amp; Burnside</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6605769396166,45.522738508535866</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Grand &amp; Stark</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66058858492951,45.519682075084319</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Oregon &amp; Grand</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66038999499868,45.528691505445273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Grand &amp; Holladay</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66051225821009,45.529762810244939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Bybee Blvd</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.64000061833252,45.474722777154376</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Tacoma St/Johnson Creek</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.63758549946567,45.462780698274884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Grand &amp; Madison</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66062493934896,45.512637889364107</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE 17th Ave &amp; Holgate Blvd</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.64850354315219,45.490884330251006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Union Station/NW 6th and Hoyt</value>
+        </Data>
+        <Data name="line">
+          <value>GY</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67656173322337,45.527006748806727</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Grand &amp; Mill</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66068301260904,45.50995743719988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 6th and Pine</value>
+        </Data>
+        <Data name="line">
+          <value>GY</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67693110907537,45.522112776942748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 5th and Couch</value>
+        </Data>
+        <Data name="line">
+          <value>GO</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6754729369749,45.524171983970156</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Beaverton TC</value>
+        </Data>
+        <Data name="line">
+          <value>BR</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.80150161049808,45.491441175750424</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Pioneer Place/SW 5th</value>
+        </Data>
+        <Data name="line">
+          <value>GO</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6777873516982,45.518499071711588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>South Waterfront/SW Moody Ave</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67133699000178,45.502707390978095</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Lincoln St/SW 3rd Ave</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68050908711302,45.507921730594433</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Rosa Parks</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68214197912737,45.56989166172562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Expo Center</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68556486744684,45.605449968196609</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Overlook Park</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68099697109888,45.548677928567265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Albina/Mississippi</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67550852989361,45.539560261413349</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>N Prescott St</value>
+        </Data>
+        <Data name="line">
+          <value>Y</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68229276786801,45.555182970544685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW River &amp; Moody</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67404820519729,45.507112672765174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>OMSI</value>
+        </Data>
+        <Data name="line">
+          <value>AL/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66336667782366,45.507008693256878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>OMSI/SE Water Ave</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66273183426001,45.506552512554521</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW Harrison &amp; 3rd</value>
+        </Data>
+        <Data name="line">
+          <value>NS/AL/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67972226454509,45.510250216102101</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Park Ave</value>
+        </Data>
+        <Data name="line">
+          <value>O</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.63506178138537,45.430680001135734</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Broadway &amp; Ross</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66948713638929,45.534441162078657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 5th &amp; Montgomery</value>
+        </Data>
+        <Data name="line">
+          <value>NS/BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68141153533614,45.511596424820823</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NE Grand &amp; Weidler</value>
+        </Data>
+        <Data name="line">
+          <value>BL</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>SC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.66051234472303,45.534834705521973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>NW 6th and Davis</value>
+        </Data>
+        <Data name="line">
+          <value>GY</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67645628436951,45.524137042741309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 5th and Oak</value>
+        </Data>
+        <Data name="line">
+          <value>GO</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67596985391202,45.521865342600812</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>PSU Urban Center/SW 5th and Mill</value>
+        </Data>
+        <Data name="line">
+          <value>GO</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68145937416968,45.511739755453917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SW 6th and Madison St</value>
+        </Data>
+        <Data name="line">
+          <value>GY</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.68053596660531,45.515421631959207</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>SE Fuller Rd</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.57360915723604,45.453397842951659</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Clackamas Town Center TC</value>
+        </Data>
+        <Data name="line">
+          <value>G</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.56775966171595,45.435722525629295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Civic Drive</value>
+        </Data>
+        <Data name="line">
+          <value>B</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.44151552000437,45.508106752675168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Union Station/NW 5th and Glisan</value>
+        </Data>
+        <Data name="line">
+          <value>GO</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67557825314927,45.527001645561363</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>Pioneer Courthouse/SW 6th</value>
+        </Data>
+        <Data name="line">
+          <value>GY</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.67875243343971,45.518745976921167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="station">
+          <value>City Hall/SW 5th and Jefferson</value>
+        </Data>
+        <Data name="line">
+          <value>GO</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+        <Data name="type">
+          <value>MAX</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.6795913099989,45.51516184282854</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

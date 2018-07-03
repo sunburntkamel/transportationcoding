@@ -1,0 +1,1927 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Cedar Mill Bible Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>12208 NW Cornell Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97229</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>16</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.802533,45.525683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>SE Fuller Rd Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>9608 SE Fuller Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97086</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>630</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.574498,45.453254</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>SE Powell Blvd Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>3618 SE 92nd Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97266</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>400</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.566438,45.494760</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>The Columba Center</value>
+        </Data>
+        <Data name="address">
+          <value>8147 SE Pine St</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97215</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>12</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.579343,45.520953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Milwaukie Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>9600 SE Main St</value>
+        </Data>
+        <Data name="city">
+          <value>Milwaukie</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97222</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>329</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.640144,45.452052</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Wilsonville Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>9699 SW Barber St</value>
+        </Data>
+        <Data name="city">
+          <value>Wilsonville</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97070</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>408</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.776337,45.310985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Tualatin South Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>18955 SW Boones Ferry Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Tualatin</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97062</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>147</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.764564,45.383271</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Tigard TC Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>8960 SW Commercial St</value>
+        </Data>
+        <Data name="city">
+          <value>Tigard</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97223</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>100</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.769356,45.429639</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Hall/Nimbus Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>8505 SW Cascade Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97008</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>50</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.786907,45.457142</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Bethel Congregational Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>5150 SW Watson Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97005</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>50</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.806264,45.482988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Beaverton Creek Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>SW 153rd Ave and Millikan Way</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97003</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>417</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.831186,45.498689</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>SE Holgate Blvd Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>9639 SE Holgate Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97266</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>120</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.566681,45.490985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Clackamas Town Center Parking Garage</value>
+        </Data>
+        <Data name="address">
+          <value>9225 SE Sunnyside Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97015</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>750</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.568511,45.436104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>SE Main St Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1119 SE 96th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97216</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>420</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.564817,45.514083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Hillsboro Intermodal Transit Facility</value>
+        </Data>
+        <Data name="address">
+          <value>775 SE Baseline St</value>
+        </Data>
+        <Data name="city">
+          <value>Hillsboro</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97123</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>85</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.977999,45.520344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Sunset TC Parking Garage</value>
+        </Data>
+        <Data name="address">
+          <value>10470 SW Barnes Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97225</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>627</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.782247,45.510599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Fair Complex/Hillsboro Airport Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>601 NE 34th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Hillsboro</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97124</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>396</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.946483,45.527633</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Orenco Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>967 NE Orenco Station Loop</value>
+        </Data>
+        <Data name="city">
+          <value>Hillsboro</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97124</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>125</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.917722,45.530690</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Elmonica/SW 170th Ave Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1200 SW 170th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97003</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>435</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.851012,45.510657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Millikan Way Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>SW Millikan Way and 141st/Shannon Pl</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97005</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>400</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.821615,45.495783</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Quatama Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>325 NW 205th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Hillsboro</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97006</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>310</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.889097,45.522704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Sherwood Regal Cinemas Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>15995 SW Tualatin-Sherwood Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Sherwood</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97140</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>50</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.840762,45.369274</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>First Presbyterian Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1321 Linn Ave at Williams St</value>
+        </Data>
+        <Data name="city">
+          <value>Oregon City</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97045</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>21</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.604293,45.337215</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Expo Center Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>2060 N Marine Dr at Expo Center</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97217</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>300</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.685890,45.605287</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Delta Park/Vanport Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1940 N Victory Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97217</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>304</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.686129,45.596036</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Emmanuel United Presbyterian Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>19200 S Willamette Dr</value>
+        </Data>
+        <Data name="city">
+          <value>West Linn</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97068</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>80</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.640278,45.386878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Hillsboro Parking Garage</value>
+        </Data>
+        <Data name="address">
+          <value>110 SW Washington St</value>
+        </Data>
+        <Data name="city">
+          <value>Hillsboro</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97123</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>250</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.990538,45.521057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Christ Church Parish Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1060 Chandler Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Lake Oswego</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97034</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>30</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.676925,45.419855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Christ the King Lutheran Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>11305 SW Bull Mountain Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Tigard</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97224</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>30</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.792578,45.414813</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Clackamas Community College Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>19600 S Molalla Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Oregon City</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97045</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>40</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.575295,45.321715</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Cedar Hills United Church of Christ Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>11695 SW Park Way</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97225</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>46</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.796220,45.508526</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Willow Creek/SW 185th Ave TC Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>375 SW 185th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Hillsboro</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97006</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>600</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.871392,45.518645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Kern Park Christian Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>6828 SE Holgate Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97206</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>24</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.592347,45.489770</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Gresham City Hall Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1297 NW Eastman Pkwy</value>
+        </Data>
+        <Data name="city">
+          <value>Gresham</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97030</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>417</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.436309,45.505194</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Cleveland Ave Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1200 NE 8th St</value>
+        </Data>
+        <Data name="city">
+          <value>Gresham</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97030</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>392</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.418418,45.502481</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Boones Ferry Community Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>20500 SW Boones Ferry Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Tualatin</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97062</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>20</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.770961,45.370821</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Barbur Blvd Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>9712 SW Barbur Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97219</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>368</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.717344,45.454237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>E 181st Ave Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>18324 E Burnside St</value>
+        </Data>
+        <Data name="city">
+          <value>Gresham</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97233</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>247</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.474586,45.521113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Lake Oswego United Methodist Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1855 South Shore Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Lake Oswego</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97034</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>34</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.681060,45.407157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>E 122nd/Menlo Park Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>12202 E Burnside St</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97233</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>612</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.536556,45.521811</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Milwaukie Elks Lodge Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>13121 SE McLoughlin Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Milwaukie</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97222</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>90</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.635075,45.428383</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Parkrose/Sumner TC Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>9525 NE Sandy Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97220</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>193</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.563650,45.559057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Progress Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>SW Scholls Ferry Rd. &amp; Hwy 217</value>
+        </Data>
+        <Data name="city">
+          <value>Tigard</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97008</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>122</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.783875,45.455284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Reynolds School District Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1204 NE 201st Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Troutdale</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97024</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>35</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.454532,45.532980</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>St. Andrews United Presbyterian Church</value>
+        </Data>
+        <Data name="address">
+          <value>3228 SW Sunset Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97239</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>140</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.710994,45.488538</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Seventh-Day Adventist Church of Beaverton</value>
+        </Data>
+        <Data name="address">
+          <value>14645 SW Davis Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97007</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>113</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.826913,45.474085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Sherwood Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>SW Main &amp; Railroad</value>
+        </Data>
+        <Data name="city">
+          <value>Sherwood</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97140</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>30</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.842043,45.355165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Southminster Presbyterian Church</value>
+        </Data>
+        <Data name="address">
+          <value>12250 SW Denney Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97008</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>20</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.803458,45.468986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Tualatin Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>SW 72nd &amp; Bridgeport Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Tualatin</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97224</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>466</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.748487,45.395592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Valley Community United Presbyterian Church</value>
+        </Data>
+        <Data name="address">
+          <value>8060 SW Brentwood St</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97225</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>63</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.760408,45.489410</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Gateway/NE 99th Ave TC Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>1250 NE 99th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97220</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>695</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.563051,45.531677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>University Park Baptist Church</value>
+        </Data>
+        <Data name="address">
+          <value>4340 N Lombard St</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97203</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>22</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.711802,45.576973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Tenth Church of Christ Scientist Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>5736 SE 17th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97202</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>28</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.647902,45.480718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Central Bible Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>8815 NE Glisan St</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97220</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>20</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.572344,45.527387</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Tigard Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>SW 74th Ave and Pacific Hwy</value>
+        </Data>
+        <Data name="city">
+          <value>Tigard</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97223</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>220</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.752827,45.437977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Hope Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>14790 SW Boones Ferry Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Lake Oswego</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97035</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>12</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.712239,45.418855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Milwaukie Presbyterian Church Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>2416 SE Lake Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Milwaukie</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97222</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>30</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.637516,45.439587</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Gresham Parking Garage</value>
+        </Data>
+        <Data name="address">
+          <value>523-575 NE 8th St</value>
+        </Data>
+        <Data name="city">
+          <value>Gresham</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97030</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>540</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.425510,45.503296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>City of Estacada Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>590 SE Short St</value>
+        </Data>
+        <Data name="city">
+          <value>Estacada</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97023</value>
+        </Data>
+        <Data name="owner">
+          <value>Shared</value>
+        </Data>
+        <Data name="spaces">
+          <value>20</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.332382,45.284863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Mohawk Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>SW Martinazzi Ave and Mohawk St</value>
+        </Data>
+        <Data name="city">
+          <value>Tualatin</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97062</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>232</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.759757,45.376040</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>SE Tacoma/Johnson Creek Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>8300 SE McLoughlin</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97202</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>318</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.637613,45.462320</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>SE Park Ave Park &amp; Ride</value>
+        </Data>
+        <Data name="address">
+          <value>2750 SE Park Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Milwaukie</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97222</value>
+        </Data>
+        <Data name="owner">
+          <value>TriMet</value>
+        </Data>
+        <Data name="spaces">
+          <value>402</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.635339,45.429588</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

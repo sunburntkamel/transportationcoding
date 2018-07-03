@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Clackamas Town Center Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>9225 SE Sunnyside Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97015</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.568328,45.435690</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Beaverton Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>4050 SW Lombard Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97005</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.801139,45.491084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Washington Square Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>9585 SW Washington Square Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Tigard</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97223</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.778794,45.452458</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Tigard Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>8960 SW Commercial St</value>
+        </Data>
+        <Data name="city">
+          <value>Tigard</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97223</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.769366,45.430265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Lake Oswego Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>4th St and A Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Lake Oswego</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97034</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.667932,45.420379</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Barbur Blvd Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>9750 SW Barbur Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97219</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.717677,45.454419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Gateway/NE 99th Ave Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>9900 NE Multnomah</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97220</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.563461,45.530389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Gresham Central Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>350 NE 8th</value>
+        </Data>
+        <Data name="city">
+          <value>Gresham</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97030</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.426842,45.502834</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Hollywood/NE 42nd Ave Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>1410 NE 42nd Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97232</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.620640,45.533280</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Sunset Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>10470 SW Barnes Rd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97225</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.781188,45.510193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Hillsboro Central/SE 3rd Ave Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>333 SE Washington</value>
+        </Data>
+        <Data name="city">
+          <value>Hillsboro</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97123</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.985263,45.521455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Willow Creek/SW 185th Ave Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>395 SW 185th Ave</value>
+        </Data>
+        <Data name="city">
+          <value>Beaverton</value>
+        </Data>
+        <Data name="county">
+          <value>Washington</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97006</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.870158,45.517413</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Rose Quarter Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>47 NE Holladay St</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97232</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.666118,45.530209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Oregon City Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>1035 SW Main St</value>
+        </Data>
+        <Data name="city">
+          <value>Oregon City</value>
+        </Data>
+        <Data name="county">
+          <value>Clackamas</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97045</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.604318,45.360139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>Parkrose/Sumner Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>9481 NE Sandy Blvd</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97220</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.564402,45.559010</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="name">
+          <value>N Lombard Transit Center</value>
+        </Data>
+        <Data name="address">
+          <value>N Interstate Ave &amp; Lombard St</value>
+        </Data>
+        <Data name="city">
+          <value>Portland</value>
+        </Data>
+        <Data name="county">
+          <value>Multnomah</value>
+        </Data>
+        <Data name="zipcode">
+          <value>97217</value>
+        </Data>
+        <Data name="status">
+          <value>Existing</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-122.682090,45.577117</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
