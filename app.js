@@ -6,4 +6,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
       id: 'mapbox.streets',
       accessToken: 'pk.eyJ1IjoiYW1pZWZyZWV0bHkiLCJhIjoiZThmZjNlN2M4ODM0ZDVlYjYyYzg4Y2NkNjZhZDE4ZjYifQ.lm_wjUUEtLvBo6OA6w38vw'
   }).addTo(mymap);
+  omnivore.kml('./data/tm_rail_lines.kml').addTo(map);
 });
